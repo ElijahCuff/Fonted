@@ -1,5 +1,5 @@
 # Fonted   
-Fonted is an ongoing project focused on character replacement for ASCII characters to provide the illusion of a font format using native ASCII character replacements.
+Fonted is an ongoing project focused on character replacement for alphabetical, numerical and symbolic characters to provide the illusion of a font format using native ASCII character replacements.
    
  
 The following characters are the base replacements for providing the fake styling.
